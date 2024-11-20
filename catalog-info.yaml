@@ -6,6 +6,7 @@ metadata:
   description: A Service with ADRs registerd
   annotations:
     backstage.io/adr-location: architecture-decision-record/adrs
+    github.com/project-slug: ValeryAsah/architecture-decision-record
 
 spec:
   type: service
