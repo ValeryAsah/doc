@@ -5,7 +5,7 @@ metadata:
   title: Component With ADRs
   description: A Service with ADRs registerd
   annotations:
-    backstage.io/adr-location: doc/adrs
+    backstage.io/adr-location: docs/adrs
 
 spec:
   type: service
