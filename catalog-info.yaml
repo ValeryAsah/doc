@@ -6,7 +6,7 @@ metadata:
   description: A Service with ADRs registerd
   annotations:
     backstage.io/adr-location: docs/adrs
-    backstage.io/techdocs-ref: dir:docs/adrs .
+    backstage.io/techdocs-ref: dir:docs/adrs 
 
 spec:
   type: service
