@@ -5,7 +5,7 @@ metadata:
   title: Component With ADRs
   description: A Service with ADRs registerd
   annotations:
-    backstage.io/adr-location: https://github.com/adr/madr/tree/develop/docs/decisions
+    backstage.io/adr-location: https://github.com/aegaxs/tech-radar/tree/adr-test/docs/adrs
     # backstage.io/techdocs-ref: dir:docs/adrs 
 
 spec:
